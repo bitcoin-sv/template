@@ -1,7 +1,7 @@
 # Code of Conduct
 
 ## Introduction
-This Code of Conduct outlines the expectations for all contributors to our open-source project, as well as the responsibilities of the maintainers in ensuring a positive and productive environment. Our goal is to create a welcoming and inclusive space for everyone to collaborate and contribute to the project's success.
+This Code of Conduct outlines the expectations for all contributors to our open-source project, as well as the responsibilities of the maintainers in ensuring a positive and productive environment. Our goal is to create excellent software. To achieve that, we foster a welcoming atmosphere for developers to collaborate and contribute to the project's success.
 
 ## Expectations for Contributors  
 All contributors are expected to:  
