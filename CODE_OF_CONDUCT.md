@@ -28,5 +28,3 @@ c. Making decisions about merging code based on its merit alone, without bias or
 ## Changes to the Code of Conduct
 This Code of Conduct is subject to change as the project evolves. Any updates will be communicated to all contributors and posted in the project repository.
 By participating in this open-source project, you agree to abide by this Code of Conduct. We appreciate your cooperation in creating a positive and productive environment for everyone involved.
-
-This document was written by [Grok](x.ai)
